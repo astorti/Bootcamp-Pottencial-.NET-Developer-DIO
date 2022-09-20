@@ -50,3 +50,14 @@ Contém os códigos dos desafios apresentados durante o bootcamp.
  > **Desafio:** Dado um inteiro n, retorne true se n tiver exatamente três divisores positivos. Caso contrário, retorne false. O inteiro m é um divisor de n, se existe um inteiro k tal que n = k * m. 
  > **Entrada:** O arquivo de entrada consiste em um inteiro n que será validada caso esteja sob as condições do desafio.
  > **Saída:** A saída consistirá em um tipo booleano: true ou false.
+
+ #### Pasta: DesafiosDeProjetos
+ Contém os códigos dos desafios de projetos apresentados durante o bootcamp.
+
+ **Desafios de Projeto 01: Construindo um sistema para estacionamento em C#**
+  Neste desafio, foi proposto completar partes de um sistema de estacionamento, baseado no [repositório](https://github.com/digitalinnovationone/trilha-net-fundamentos-desafio/) do projeto original da DIO. 
+  Este sistema será utilizado para gerenciar veículos estacionados e realizar operações, tais como:
+
+  > **Adicionar** um veículo;
+  > **Remover** um veículo e exibir o valor cobrado, a partir das informações de valor e tempo de permanência na vaga, informados no sistema;
+  > **Listar** os veículos no estacionamento.
