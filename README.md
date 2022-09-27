@@ -33,6 +33,43 @@ Contém os códigos apresentados em aula sobre os fundamentos da linguagem C#.
  > Copiar uma array;
  > Lista;
 
+##### PASTA: ExemploExplorando
+Contém os códigos apresentados em aula sobre os conceitos de nível intermediário da linguagem C#.
+ 
+  __**Tópicos:**__
+ > Acessando uma classe com e sem construtor;
+ > Formatando valores monetários;
+ > Alterando a locallização do código;
+ > Alterando a localização da cultura;
+ > Formatação personalizada;
+ > Representação em porcentagem;
+ > Separador de inteiro;
+ > Formatação do tipo DateTime;
+ > Formatando data e hora;
+ > DateTime com Parse e TryParse;
+ > Leitura de arquivo;
+ > Tratamento de exceções genéricas e específicas;
+ > Throw exception;
+ > Queue;
+ > Stack;
+ > Dictionary;
+ > Tuplas;
+ > Tuplas em métodos;
+ > Desconstructor;
+ > If ternário;
+ > Serialização;
+ > Serialização de coleção;
+ > Descerialização de coleção;
+ > Tipo nulo;
+ > Tipo anônimo;
+ > Tipo anônimo em coleções;
+ > Tipo dinâmico;
+ > Classe genérica;
+ > Método de extensão;
+ > Tipo de referência;
+ > Tipo de valor
+
+
 #### PASTA: Desafios
 Contém os códigos dos desafios apresentados durante o bootcamp.
  
