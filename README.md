@@ -69,6 +69,18 @@ Contém os códigos apresentados em aula sobre os conceitos de nível intermedi�
  > Tipo de referência;
  > Tipo de valor
 
+##### PASTA: ExemploPOO
+Contém os códigos apresentados em aula sobre os conceitos de Programação Orientada a Objetos na linguagem C#.
+ 
+  __**Tópicos:**__
+ > Instanciação;
+ > Herança;
+ > Polimorfismo;
+ > Classe Abstrata;
+ > Construtor por herança;
+ > Class Object;
+ > Interface.
+
 
 #### PASTA: Desafios
 Contém os códigos dos desafios apresentados durante o bootcamp.
