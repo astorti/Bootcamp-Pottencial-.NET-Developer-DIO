@@ -82,6 +82,17 @@ Contém os códigos apresentados em aula sobre os conceitos de Programação Ori
  > Interface.
 
 
+##### PASTA: MODULOAPI
+Contém os códigos apresentados em aula no qual foi desenvolvido um projeto webapi do dotnet. O projeto consistiu em elaborar uma api de contatos no qual seria possivel criar, editar, buscar e deletar um contato através da ferramenta Swagger.
+
+ __**Tópicos:**__
+ > API;
+ > Entity Framewok;
+ > Migrations;
+ > Conexão com banco de dados;
+ > CRUD (Create, Read, Update, Delete)
+
+
 #### PASTA: Desafios
 Contém os códigos dos desafios apresentados durante o bootcamp.
  
