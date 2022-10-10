@@ -93,6 +93,17 @@ Contém os códigos apresentados em aula no qual foi desenvolvido um projeto web
  > CRUD (Create, Read, Update, Delete)
 
 
+##### PASTA: ProjetoMVC
+Contém os códigos apresentados em aula no qual foi desenvolvido um projeto com arquitetura MVC (Model, View, Control). O projeto consistiu em elaborar uma página web de contatos no qual seria possivel criar, editar, buscar e deletar um contato.
+
+ __**Tópicos:**__
+ > MVC;
+ > Entity Framewok;
+ > Migrations;
+ > Conexão com banco de dados;
+ > CRUD (Create, Read, Update, Delete)
+
+
 #### PASTA: Desafios
 Contém os códigos dos desafios apresentados durante o bootcamp.
  
